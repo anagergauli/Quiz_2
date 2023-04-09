@@ -27,7 +27,7 @@ class Program
 
         int oddNumSum = 0;
         int evenNumProduct = 1;
-        int[] countArray = new int[101]; // assuming the range of values is 1 to 100
+        int[] countArray = new int[101]; //values vary from 1 to 100
 
         for (int i = 0; i < n; i++)
         {
